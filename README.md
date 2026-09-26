@@ -6,4 +6,4 @@ This repository hosts **release builds only**. Servers running UltraCoupons down
 here automatically (see `GENERAL.CHECK-FOR-UPDATES` / `GENERAL.AUTO-UPDATE` in `config.yml`);
 the update is installed on the next restart.
 
-Get UltraCoupons on [BuiltByBit](https://builtbybit.com/creators/blixaozric).
+UltraCoupons is available on BuiltByBit.
